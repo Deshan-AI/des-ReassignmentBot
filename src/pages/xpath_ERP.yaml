@@ -1,0 +1,14 @@
+Team tasks:
+  //*[@id="wrapper"]/section/main/section/div[1]/div[1]/div/div/div[2]/div/div[3]/h2
+
+Visa Queue:
+  //*[@id="wrapper"]/section/main/section/div[1]/div[2]/div[2]/div/div[2]/table/tbody/tr[2]
+  //*[@id="wrapper"]/section/main/section/div[1]/div[2]/div[2]/div/div[2]/table/tbody/tr[4]
+  //*[@id="wrapper"]/section/main/section/div[1]/div[2]/div[2]/div/div[2]/table/tbody/tr[6]
+
+ICA apply:
+  //html/body/div[2]/section/main/section/div[1]/div[2]/div[2]/div/div[2]/table/tbody/tr[2]/td[1]/a
+
+ICA Status:
+  //html/body/div[2]/section/main/section/div[1]/div[2]/div[2]/div/div[2]/table/tbody/tr[2]/td[1]/span
+
