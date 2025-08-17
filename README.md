@@ -24,22 +24,9 @@ ERP:
   url: "your_erp_url"
   username: "your_username"
   password: "your_password"
-ICP:
-  url: "your_icp_url"
-  username: "your_username"
-  password: "your_password"
-ZOHO:
-  url: "your_zoho_url"
-  username: "your_username"
-  password: "your_password"
-download_paths:
-  Base: "path/to/downloads"
-  Generated_Document: "path/to/generated"
-  Icp: "path/to/icp"
-data_path:
-  Base: "path/to/data"
-  Database: "path/to/database"
-  Auth: "path/to/auth"
+
+
+
 retry:
   max_attempts: 3
 captcha:
@@ -47,8 +34,7 @@ captcha:
 sleep:
   max: 5
   min: 1
-google_cloud:
-  credentials: "path/to/credentials.json"
+
 ```
 
 ## Running the Application
