@@ -29,8 +29,7 @@ ERP:
 
 retry:
   max_attempts: 3
-captcha:
-  api_key: "your_2captcha_api_key"
+
 sleep:
   max: 5
   min: 1
